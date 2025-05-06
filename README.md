@@ -1,2 +1,0 @@
-# Niku-challenge-
-# Niku-challenge-

@@ -1,0 +1,14 @@
+/* لینک فایلی که وظیفه بارگذاری فونت ها را برعهده دارد */
+@import url(fontiran.css);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* فارسی کردن اعداد انگلیسی و عربی */
+* {
+    -moz-font-feature-settings: "ss02";
+    -webkit-font-feature-settings: "ss02";
+    font-feature-settings: "ss02";
+}
